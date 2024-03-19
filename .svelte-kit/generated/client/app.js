@@ -25,7 +25,7 @@ export const dictionary = {
 		"/contact": [~7],
 		"/jet": [8],
 		"/schools": [9],
-		"/sucess": [10]
+		"/success": [10]
 	};
 
 export const hooks = {

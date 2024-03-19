@@ -169,16 +169,16 @@
     "isEntry": true,
     "src": "src/routes/schools/+page.svelte"
   },
-  "src/routes/sucess/+page.svelte": {
+  "src/routes/success/+page.svelte": {
     "css": [
       "_app/immutable/assets/_page.nsJf1mS0.css",
       "_app/immutable/assets/ContactCta.qQNe-TmX.css"
     ],
-    "file": "entries/pages/sucess/_page.svelte.js",
+    "file": "entries/pages/success/_page.svelte.js",
     "imports": [
       "_ssr.js"
     ],
     "isEntry": true,
-    "src": "src/routes/sucess/+page.svelte"
+    "src": "src/routes/success/+page.svelte"
   }
 }
